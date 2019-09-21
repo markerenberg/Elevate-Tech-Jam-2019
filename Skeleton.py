@@ -6,8 +6,7 @@
 ##
 
 
-# Objective: Create a model which predicts a probability of each type of toxicity for each comment.
-
+##### Import Packages #####
 import os
 import sys
 import gc
