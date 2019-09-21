@@ -5,12 +5,6 @@
 ## =======================================================
 ##
 
-##
-## =======================================================
-## Mark Erenberg 
-## Toxic Comment Classification Challenge
-## =======================================================
-##
 
 # Objective: Create a model which predicts a probability of each type of toxicity for each comment.
 
