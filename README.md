@@ -3,6 +3,9 @@
 ## Product Summary
 Smart Queue is a mobile application that recommends the fastest way of getting service at a Rogers store. It factors in wait times and commute times to ensure that you have an accurate prediction of expected time to service.
 
+## App Prototype
+https://pr.to/2UXXLA/
+
 ## How Does It Work?
 Smart Queue will use a customer's geolocation to find the closest Rogers stores around them. From here, we will use time-series modelling to predict expected wait times at each of the stores, and rank the stores in order of wait time + travel time.
 
